@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://your-image-link.com/profile.jpg" width="200" alt="Profile picture" align="right" />
+<img src="https://github.com/swethaupa/swethaupa/blob/main/Screenshot%202024-04-08%20at%205.34.02%20PM.png" width="200" alt="Profile picture" align="right" />
 
 # 👋 Hi, I'm Swetha Upadrasta
 
