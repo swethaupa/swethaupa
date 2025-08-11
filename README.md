@@ -41,9 +41,7 @@ I’m always looking for ways to leverage technology for social impact and scien
 
 
 
-### 🧬 [genomic-biomarker-analysis](https://github.com/yourusername/genomic-biomarker-analysis)
-Explored gene expression patterns linked to Alzheimer's  
-*Tech:* Python, Jupyter, seaborn
+### 🧬 [Android application](https://github.com/EyeDTeam/EyeD_Android)
 
 ----
 
@@ -53,9 +51,3 @@ Explored gene expression patterns linked to Alzheimer's
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
-
-## ✨ Fun Fact
-
-A matcha latte is my go-to coding fuel 🍵 — I’m most in flow when coding with Lo-Fi beats, contributing to Women in Tech initiatives, or chatting about AI ethics.
-
-
