@@ -42,7 +42,21 @@ I’m always looking for ways to leverage technology for social impact and scien
 
 
 ### 🧬 [Android application](https://github.com/EyeDTeam/EyeD_Android)
+### 🤖 AI Recruitment System (Break Through Tech AI Studio – Cadence Design Systems)
 
+Built an end-to-end hiring support system that evaluates resumes and job descriptions using NLP and transformer models to help recruiters quickly identify strong candidates.
+
+Tech Stack: Python · spaCy · Hugging Face Transformers (BERT, RoBERTa) · FastAPI
+
+Key Contributions:
+
+Processed 66K resumes and 1.6M job descriptions to build a large-scale matching pipeline
+
+Fine-tuned transformer models, increasing candidate-role match accuracy by 30%
+
+Developed transparency reports explaining model decisions and ranking behavior
+
+🔗 Repo: https://github.com/divya-israni/cadence1b
 ----
 
 ## 📈 GitHub Activity
