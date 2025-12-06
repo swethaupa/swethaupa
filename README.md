@@ -57,6 +57,10 @@ Fine-tuned transformer models, increasing candidate-role match accuracy by 30%
 Developed transparency reports explaining model decisions and ranking behavior
 
 ### 🔗 Repo: https://github.com/divya-israni/cadence1b
+
+### 🔍 Search Engine & Inverted-Index Project  
+[SearchEngine](https://github.com/MMynampati/SearchEngine) — A basic search engine built with Python that crawls web pages, parses HTML, builds an inverted index, and supports tf-idf–based keyword search queries.  
+
 ----
 
 ## 📈 GitHub Activity
