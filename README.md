@@ -56,7 +56,7 @@ Fine-tuned transformer models, increasing candidate-role match accuracy by 30%
 
 Developed transparency reports explaining model decisions and ranking behavior
 
-🔗 Repo: https://github.com/divya-israni/cadence1b
+### 🔗 Repo: https://github.com/divya-israni/cadence1b
 ----
 
 ## 📈 GitHub Activity
