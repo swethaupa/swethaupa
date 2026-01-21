@@ -61,11 +61,4 @@ Developed transparency reports explaining model decisions and ranking behavior
 ### 🔍 Search Engine & Inverted-Index Project  
 [SearchEngine](https://github.com/MMynampati/SearchEngine) — A basic search engine built with Python that crawls web pages, parses HTML, builds an inverted index, and supports tf-idf–based keyword search queries.  
 
-----
-
-## 📈 GitHub Activity
-
-![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
 ---
