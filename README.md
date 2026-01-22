@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Swetha Upadrasta
 
-I'm a Computer Science student at UC Irvine with a passion for **AI-driven solutions, bioinformatics, and ethical technology**. Through hands-on experience in **data science**, **predictive analytics**, and **business intelligence**, I’ve built tools that improve healthcare operations, customer service, and user experiences.
+I'm a Computer Science student at UC Irvine with a passion for **AI-driven solutions, bioinformatics, and ethical technology**. Through hands-on experience in **data science**, **predictive analytics**, and **business intelligence**, I’ve built tools that improve healthcare operations, and user experiences.
 
-I’m always looking for ways to leverage technology for social impact and scientific advancement.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/swethaupadrasta/)  
 📧 Email: [swetha.upa@gmail.com]  
